@@ -1,5 +1,5 @@
 ﻿using Xamarin.Forms;
-///prueba
+
 namespace PartsUnlimited.Resources
 {
     public static class ApplicationColors
