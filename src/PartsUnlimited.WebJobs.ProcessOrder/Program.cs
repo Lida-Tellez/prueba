@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
+//prueba conflicto local
 using System;
 using System.Linq;
 using Microsoft.Azure.WebJobs;
