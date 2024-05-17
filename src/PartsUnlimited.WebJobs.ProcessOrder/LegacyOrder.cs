@@ -1,7 +1,8 @@
 // Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
-//cambio realizado por otro usuaruio remoto
+//prueba cambio local
+//prueba de eliminación de varios commit
 
 using System;
 using System.Collections.Generic;
